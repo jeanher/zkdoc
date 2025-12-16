@@ -1,6 +1,6 @@
 # ZK Documentation MCP Server
 
-An [MCP (Model Context Protocol) server](https://modelcontextprotocol.io/docs/learn/server-concepts) for the [ZK Framework documentation](https://github.com/zkoss/zkdoc) that provides semantic search, intelligent Q&A, and documentation indexing capabilities.
+An [MCP (Model Context Protocol) server](https://modelcontextprotocol.io/docs/learn/server-concepts) for the [ZK Framework documentation](https://github.com/zkoss/zkdoc) that provides semantic search, intelligent Q&A, and documentation indexing capabilities. It feeds official ZK knowledge to the AI tools you choose, improving the accuracy of ZK-related answers and helping you develop ZK applications more efficiently.
 
 ## Overview
 
